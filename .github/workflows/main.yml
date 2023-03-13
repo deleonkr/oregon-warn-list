@@ -26,6 +26,3 @@ jobs:
         committer_email: actions@users.noreply.github.com
         message: "Latest data"
         
-    - name: Push	
-      run: git push
-    
