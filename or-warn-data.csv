@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8534,03/24/2023,Large Layoff - 10 or more workers,12,"Aspiration Partners, Inc","Marina Del Rey, CA",
 8533,03/17/2023,Permanent closure,150,"Security Industry Specialists, Inc","Culver City, CA",
 8521,03/13/2023,Permanent closure,198,Blount Fine Foods,Portland,
 8512,02/22/2023,Permanent closure,379,Walmart Store #2552,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8377,05/25/2022,Permanent closure,71,"Dr. Martens Airway USA, LLC - Anchor Park Distribution Center",Portland,
 8356,03/30/2022,Large Layoff - 10 or more workers,163,"ARS-Fresno, LLC.","Carlsbad, CA",
 8352,03/09/2022,Large Layoff - 10 or more workers,231,Shearer's,Hermiston,
-8341,02/10/2022,Large Layoff - 10 or more workers,54,Peloton,Portland,
