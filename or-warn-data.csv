@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8545,04/25/2023,Permanent closure,88,Cascades Tissue Group - Scappoose Converting,Scappoose,
 8543,04/14/2023,Other,5,"David's Bridal, Corporate Office","Conshohocken, PA",
 8534,03/24/2023,Large Layoff - 10 or more workers,12,"Aspiration Partners, Inc","Marina Del Rey, CA",
 8533,03/17/2023,Permanent closure,150,"Security Industry Specialists, Inc","Culver City, CA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8394,07/13/2022,Permanent closure,97,RR Donnelley,Medford,
 8388,06/29/2022,Permanent closure,156,"Center for Autism and Related Disorders, LLC.","Plano, TX",
 8377,05/25/2022,Permanent closure,71,"Dr. Martens Airway USA, LLC - Anchor Park Distribution Center",Portland,
-8356,03/30/2022,Large Layoff - 10 or more workers,163,"ARS-Fresno, LLC.","Carlsbad, CA",
