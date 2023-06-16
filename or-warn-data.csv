@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8578,06/14/2023,Large Layoff - 10 or more workers,1,"Bitwise Industries, Inc.","Fresno, CA",
 8577,06/13/2023,Reduction,81,Owens-Brockway Glass Container Inc.,Portland,
 8574,06/09/2023,Permanent closure,115,Marquis Spas,Independence,
 8572,06/06/2023,Large Layoff - 10 or more workers,62,Aimbridge Employee Service Corp AKA Valley River Inn,Eugene,
@@ -6,7 +7,7 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8556,05/09/2023,Large Layoff - 10 or more workers,45,Cascades Tissue Group - St Helens Paper Mill,St. Helens,
 8551,04/28/2023,Permanent closure,6,"Makita U.S.A., Inc.",Portland,
 8545,04/25/2023,Permanent closure,88,Cascades Tissue Group - Scappoose Converting,Scappoose,
-8543,04/14/2023,Other,5,"David's Bridal, Corporate Office","Conshohocken, PA",
+8543,04/14/2023,Permanent closure,5,"David's Bridal, Corporate Office","Conshohocken, PA",
 8534,03/24/2023,Large Layoff - 10 or more workers,12,"Aspiration Partners, Inc","Marina Del Rey, CA",
 8533,03/17/2023,Permanent closure,150,"Security Industry Specialists, Inc","Culver City, CA",
 8521,03/13/2023,Permanent closure,198,Blount Fine Foods,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8470,12/27/2022,Large Layoff - 10 or more workers,,BOISE CASCADE ELGIN PLYWOOD MILL,ELGIN,
 8438,09/26/2022,Large Layoff - 10 or more workers,58,BayFirst Financial,"St. Petersburg, FL",
 8437,10/12/2022,Large Layoff - 10 or more workers,46,"Laird Superfood, Inc",Sisters,
-8435,10/11/2022,Large Layoff - 10 or more workers,60,"Beauty Systems Group, LLC, DBA CosmoProf's Distribution Center",Clackamas,
