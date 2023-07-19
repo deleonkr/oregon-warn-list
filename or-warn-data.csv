@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8592,07/18/2023,Permanent closure,,"Rise Services, Inc.","Mesa, AZ",
 8583,07/07/2023,Large Layoff - 10 or more workers,50,"PBS West, LLC",Corvallis,
 8578,06/14/2023,Large Layoff - 10 or more workers,1,"Bitwise Industries, Inc.","Fresno, CA",
 8577,06/13/2023,Reduction,81,Owens-Brockway Glass Container Inc.,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8482,01/25/2023,Large Layoff - 10 or more workers,101,Greenbrier Companies,Lake Oswego,
 8475,01/11/2023,Large Layoff - 10 or more workers,7,Specialized Bicycle Components,"Morgan Hill, CA",
 8470,12/27/2022,Large Layoff - 10 or more workers,,BOISE CASCADE ELGIN PLYWOOD MILL,ELGIN,
-8438,09/26/2022,Large Layoff - 10 or more workers,58,BayFirst Financial,"St. Petersburg, FL",
