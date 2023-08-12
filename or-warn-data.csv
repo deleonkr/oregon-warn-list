@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8609,08/11/2023,Permanent closure,,Centerra,"Herndon, VA",
 8606,08/10/2023,Permanent closure,72,Cascades Tissue Group - St Helens Paper Mill,St. Helens,
 8603,08/01/2023,Permanent closure,74,"Tree Top, Inc.","Selah, WA",
 8598,08/01/2023,Permanent closure,87,Yellow Corporation,"Nashville, TN",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8533,03/17/2023,Permanent closure,150,"Security Industry Specialists, Inc","Culver City, CA",
 8521,03/13/2023,Permanent closure,198,Blount Fine Foods,Portland,
 8512,02/22/2023,Permanent closure,379,Walmart Store #2552,Portland,
-8510,02/22/2023,Permanent closure,201,Walmart Store #5899,Portland,
