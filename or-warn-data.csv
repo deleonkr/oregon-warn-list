@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8622,09/08/2023,Reduction,94,"Divvy Homes, Inc","San Francisco, CA",
 8617,08/22/2023,Large Layoff - 10 or more workers,316,Wells Fargo Bank N.A.,"Charlotte, NC",
 8612,08/18/2023,Other,1,BOISE CASCADE ELGIN PLYWOOD MILL,ELGIN,
 8609,08/11/2023,Permanent closure,,Centerra,"Herndon, VA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8545,04/25/2023,Permanent closure,88,Cascades Tissue Group - Scappoose Converting,Scappoose,
 8543,04/14/2023,Permanent closure,5,"David's Bridal, Corporate Office","Conshohocken, PA",
 8534,03/24/2023,Large Layoff - 10 or more workers,12,"Aspiration Partners, Inc","Marina Del Rey, CA",
-8533,03/17/2023,Permanent closure,150,"Security Industry Specialists, Inc","Culver City, CA",
