@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8637,10/02/2023,Permanent closure,95,Grace,Albany,
 8634,09/28/2023,Permanent closure,40,Target Corporation,"Minneapolis, MN",
 8633,09/28/2023,Permanent closure,56,Target Corporation,"Minneapolis, MN",
 8632,09/28/2023,Permanent closure,62,Target Corporation,"Minneapolis, MN",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8574,06/09/2023,Permanent closure,115,Marquis Spas,Independence,
 8572,06/06/2023,Large Layoff - 10 or more workers,62,Aimbridge Employee Service Corp AKA Valley River Inn,Eugene,
 8563,05/24/2023,Other,3,Aspiration Partners,"Marina Del Rey, CA",
-8556,05/09/2023,Large Layoff - 10 or more workers,45,Cascades Tissue Group - St Helens Paper Mill,St. Helens,
