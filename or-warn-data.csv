@@ -1,4 +1,6 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8648,10/19/2023 12:00:00 AM,Permanent closure,463,Peace Health,Eugene,
+8647,10/18/2023 12:00:00 AM,Permanent closure,136,Rite Aid,"Harrisburg, PA",
 8637,10/2/2023 12:00:00 AM,Permanent closure,95,Grace,Albany,
 8634,9/28/2023 12:00:00 AM,Permanent closure,40,Target Corporation,"Minneapolis, MN",
 8633,9/28/2023 12:00:00 AM,Permanent closure,56,Target Corporation,"Minneapolis, MN",
@@ -17,5 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8578,6/14/2023 12:00:00 AM,Large Layoff - 10 or more workers,1,"Bitwise Industries, Inc.","Fresno, CA",
 8577,6/13/2023 12:00:00 AM,Reduction,81,Owens-Brockway Glass Container Inc.,Portland,
 8574,6/9/2023 12:00:00 AM,Permanent closure,115,Marquis Spas,Independence,
-8572,6/6/2023 12:00:00 AM,Large Layoff - 10 or more workers,62,Aimbridge Employee Service Corp AKA Valley River Inn,Eugene,
-8563,5/24/2023 12:00:00 AM,Other,3,Aspiration Partners,"Marina Del Rey, CA",
