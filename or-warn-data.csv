@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8671,12/1/2023 12:00:00 AM,Permanent closure,62,Matheson Flight Extenders,"Sacramento, CA",
 8652,10/25/2023 12:00:00 AM,Permanent closure,32,"Cygnus Home Service, LLC dba Yelloh","Marshall, MN",
 8648,10/19/2023 12:00:00 AM,Permanent closure,463,Peace Health,Eugene,
 8647,10/18/2023 12:00:00 AM,Permanent closure,136,Rite Aid,"Harrisburg, PA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8592,7/18/2023 12:00:00 AM,Permanent closure,,"Rise Services, Inc.","Mesa, AZ",
 8583,7/7/2023 12:00:00 AM,Large Layoff - 10 or more workers,50,"PBS West, LLC",Corvallis,
 8578,6/14/2023 12:00:00 AM,Large Layoff - 10 or more workers,1,"Bitwise Industries, Inc.","Fresno, CA",
-8577,6/13/2023 12:00:00 AM,Reduction,81,Owens-Brockway Glass Container Inc.,Portland,
