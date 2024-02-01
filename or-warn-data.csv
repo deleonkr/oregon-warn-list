@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8723,1/31/2024 12:00:00 AM,Permanent closure,78,Penske Logistics LLC,"Auburn, WA",
 8708,1/12/2024 12:00:00 AM,Large Layoff - 10 or more workers,125,"Lost Boys Interactive, LLC","Madison, WI",
 8671,12/1/2023 12:00:00 AM,Permanent closure,62,Matheson Flight Extenders,"Sacramento, CA",
 8652,10/25/2023 12:00:00 AM,Permanent closure,32,"Cygnus Home Service, LLC dba Yelloh","Marshall, MN",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8598,8/1/2023 12:00:00 AM,Permanent closure,87,Yellow Corporation,"Nashville, TN",
 8596,7/31/2023 12:00:00 AM,Large Layoff - 10 or more workers,101,"KeHE Distributors, Inc.","Naperville, IL",
 8592,7/18/2023 12:00:00 AM,Permanent closure,,"Rise Services, Inc.","Mesa, AZ",
-8583,7/7/2023 12:00:00 AM,Large Layoff - 10 or more workers,50,"PBS West, LLC",Corvallis,
