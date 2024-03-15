@@ -1,4 +1,6 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8760,3/12/2024 12:00:00 AM,Reduction,22,Adventist Health of Tillamook,Tillamook,
+8759,3/5/2024 12:00:00 AM,Reduction,87,Wieden + Kennedy,Portland,
 8747,2/21/2024 12:00:00 AM,Large Layoff - 10 or more workers,331,UPS,"Atlanta, GA",
 8742,2/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,100,Interfor U.S. Inc,Philomath,
 8725,1/30/2024 12:00:00 AM,Large Layoff - 10 or more workers,46,"Block, Inc.","Oakland, CA",
@@ -17,5 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8617,8/22/2023 12:00:00 AM,Large Layoff - 10 or more workers,305,Wells Fargo Bank N.A.,"Charlotte, NC",
 8612,8/18/2023 12:00:00 AM,Other,1,BOISE CASCADE ELGIN PLYWOOD MILL,ELGIN,
 8609,8/11/2023 12:00:00 AM,Permanent closure,52,Centerra,"Herndon, VA",
-8606,8/10/2023 12:00:00 AM,Permanent closure,72,Cascades Tissue Group - St Helens Paper Mill,St. Helens,
-8603,8/1/2023 12:00:00 AM,Permanent closure,74,"Tree Top, Inc.","Selah, WA",
