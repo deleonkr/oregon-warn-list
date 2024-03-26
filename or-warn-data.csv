@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8771,3/25/2024 12:00:00 AM,Large Layoff - 10 or more workers,95,Aspen ML LLC,Tigard,
 8769,3/22/2024 12:00:00 AM,Permanent closure,50,"Bornstein Seafoods, Inc - Newport Facility",Newport,
 8760,3/12/2024 12:00:00 AM,Reduction,22,Adventist Health of Tillamook,Tillamook,
 8759,3/5/2024 12:00:00 AM,Reduction,87,Wieden + Kennedy,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8627,9/7/2023 12:00:00 AM,Permanent closure,25,"American Nursery Services, Inc.",Newberg,
 8622,9/8/2023 12:00:00 AM,Reduction,94,"Divvy Homes, Inc","San Francisco, CA",
 8617,8/22/2023 12:00:00 AM,Large Layoff - 10 or more workers,305,Wells Fargo Bank N.A.,"Charlotte, NC",
-8612,8/18/2023 12:00:00 AM,Other,1,BOISE CASCADE ELGIN PLYWOOD MILL,ELGIN,
