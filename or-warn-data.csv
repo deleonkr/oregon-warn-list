@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8782,4/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,20,"Block, Inc.","Oakland, CA",
 8781,4/1/2024 12:00:00 AM,Permanent closure,171,"Volta Charging Industries, LLC","San Francisco, CA",
 8776,3/28/2024 12:00:00 AM,Large Layoff - 10 or more workers,67,"Osso VR, Inc.","San Francisco, CA",
 8773,3/25/2024 12:00:00 AM,Reduction,76,"Bionano Genomics, Inc.","San Diego, CA",
@@ -6,7 +7,7 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8769,3/22/2024 12:00:00 AM,Permanent closure,50,"Bornstein Seafoods, Inc - Newport Facility",Newport,
 8760,3/12/2024 12:00:00 AM,Reduction,22,Adventist Health of Tillamook,Tillamook,
 8759,3/5/2024 12:00:00 AM,Reduction,87,Wieden + Kennedy,Portland,
-8747,2/21/2024 12:00:00 AM,Large Layoff - 10 or more workers,331,UPS,"Atlanta, GA",
+8747,2/21/2024 12:00:00 AM,Large Layoff - 10 or more workers,350,UPS,"Atlanta, GA",
 8742,2/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,100,Interfor U.S. Inc,Philomath,
 8725,1/30/2024 12:00:00 AM,Large Layoff - 10 or more workers,46,"Block, Inc.","Oakland, CA",
 8723,1/31/2024 12:00:00 AM,Permanent closure,78,Penske Logistics LLC,"Auburn, WA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8637,10/2/2023 12:00:00 AM,Permanent closure,95,Grace,Albany,
 8634,9/28/2023 12:00:00 AM,Permanent closure,40,Target Corporation,"Minneapolis, MN",
 8633,9/28/2023 12:00:00 AM,Permanent closure,56,Target Corporation,"Minneapolis, MN",
-8632,9/28/2023 12:00:00 AM,Permanent closure,62,Target Corporation,"Minneapolis, MN",
