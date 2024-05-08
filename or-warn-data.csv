@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8817,5/7/2024 12:00:00 AM,Permanent closure,88,Multnomah University,Portland,
 8800,4/23/2024 12:00:00 AM,Large Layoff - 10 or more workers,75,Plexus Corp.,"Neenah, WI",
 8794,4/19/2024 12:00:00 AM,Reduction,740,"NIKE, Inc.",Beaverton,
 8782,4/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,20,"Block, Inc.","Oakland, CA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8652,10/25/2023 12:00:00 AM,Permanent closure,32,"Cygnus Home Service, LLC dba Yelloh","Marshall, MN",
 8648,10/19/2023 12:00:00 AM,Permanent closure,463,Peace Health,Eugene,
 8647,10/18/2023 12:00:00 AM,Permanent closure,136,Rite Aid,"Harrisburg, PA",
-8637,10/2/2023 12:00:00 AM,Permanent closure,95,Grace,Albany,
