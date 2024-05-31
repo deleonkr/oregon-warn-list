@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8850,5/29/2024 12:00:00 AM,Large Layoff - 10 or more workers,37,LexisNexis Risk Solutions,"Alpharetta, GA",
 8847,5/28/2024 12:00:00 AM,Large Layoff - 10 or more workers,330,"Campbell Soup Supply Company, LLC",Tualatin,
 8832,5/10/2024 12:00:00 AM,Reduction,8,Lignetics,Cascade Locks,
 8817,5/7/2024 12:00:00 AM,Permanent closure,88,Multnomah University,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8723,1/31/2024 12:00:00 AM,Permanent closure,78,Penske Logistics LLC,"Auburn, WA",
 8708,1/12/2024 12:00:00 AM,Large Layoff - 10 or more workers,125,"Lost Boys Interactive, LLC","Madison, WI",
 8671,12/1/2023 12:00:00 AM,Permanent closure,62,Matheson Flight Extenders,"Sacramento, CA",
-8652,10/25/2023 12:00:00 AM,Permanent closure,32,"Cygnus Home Service, LLC dba Yelloh","Marshall, MN",
