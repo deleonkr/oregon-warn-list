@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+8880,7/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,70,Hazelnut Growers of Oregon,Aurora,
 8876,7/1/2024 12:00:00 AM,Large Layoff - 10 or more workers,297,OHSU,Portland,
 8859,6/7/2024 12:00:00 AM,Large Layoff - 10 or more workers,142,OHSU,Portland,
 8850,5/29/2024 12:00:00 AM,Large Layoff - 10 or more workers,37,LexisNexis Risk Solutions,"Alpharetta, GA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8747,2/21/2024 12:00:00 AM,Large Layoff - 10 or more workers,350,UPS,"Atlanta, GA",
 8742,2/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,100,Interfor U.S. Inc,Philomath,
 8725,1/30/2024 12:00:00 AM,Large Layoff - 10 or more workers,46,"Block, Inc.","Oakland, CA",
-8723,1/31/2024 12:00:00 AM,Permanent closure,78,Penske Logistics LLC,"Auburn, WA",
