@@ -1,5 +1,6 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
-8892,7/23/2024 12:00:00 AM,Permanent closure,95,Wells Fargo Bank N.A.,"Charlotte, NC",
+8911,8/6/2024 12:00:00 AM,Large Layoff - 10 or more workers,158,Willamette Falls Paper Company,West Linn,
+8892,7/23/2024 12:00:00 AM,Permanent closure,97,Wells Fargo Bank N.A.,"Charlotte, NC",
 8880,7/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,70,Hazelnut Growers of Oregon,Aurora,
 8876,7/1/2024 12:00:00 AM,Large Layoff - 10 or more workers,297,OHSU,Portland,
 8859,6/7/2024 12:00:00 AM,Large Layoff - 10 or more workers,142,OHSU,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8760,3/12/2024 12:00:00 AM,Reduction,22,Adventist Health of Tillamook,Tillamook,
 8759,3/5/2024 12:00:00 AM,Reduction,87,Wieden + Kennedy,Portland,
 8747,2/21/2024 12:00:00 AM,Large Layoff - 10 or more workers,350,UPS,"Atlanta, GA",
-8742,2/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,100,Interfor U.S. Inc,Philomath,
