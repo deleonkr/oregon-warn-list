@@ -1,4 +1,6 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9017,10/15/2024 12:00:00 AM,Permanent closure,98,"True Value Company, L.L.C.",Springfield,
+9016,10/30/2024 12:00:00 AM,Permanent closure,64,"Misfits Markets, Inc.",Clackamas,
 8987,10/21/2024 12:00:00 AM,Permanent closure,111,DENNIS Uniform,Portland,
 8985,10/17/2024 12:00:00 AM,Permanent closure,49,Overhead Door Corporation,"Lewisville, TX",
 8978,10/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,1300,Intel Corporation,"Santa Clara, CA",
@@ -17,5 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8800,4/23/2024 12:00:00 AM,Large Layoff - 10 or more workers,75,Plexus Corp.,"Neenah, WI",
 8794,4/19/2024 12:00:00 AM,Reduction,740,"NIKE, Inc.",Beaverton,
 8782,4/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,20,"Block, Inc.","Oakland, CA",
-8781,4/1/2024 12:00:00 AM,Permanent closure,171,"Volta Charging Industries, LLC","San Francisco, CA",
-8776,3/28/2024 12:00:00 AM,Large Layoff - 10 or more workers,67,"Osso VR, Inc.","San Francisco, CA",
