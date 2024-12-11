@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9056,12/10/2024 12:00:00 AM,Reduction,91,"Natural Fiber Welding, Inc.","Peoria, IL",
 9050,11/22/2024 12:00:00 AM,Large Layoff - 10 or more workers,60,Cabinet Door Service,Salem,
 9049,12/4/2024 12:00:00 AM,Large Layoff - 10 or more workers,500,Wells Fargo Bank N.A.,"Charlotte, NC",
 9048,12/4/2024 12:00:00 AM,Permanent closure,221,Wells Fargo Bank N.A.,"Charlotte, NC",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8880,7/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,69,Hazelnut Growers of Oregon,Aurora,
 8876,7/1/2024 12:00:00 AM,Large Layoff - 10 or more workers,297,OHSU,Portland,
 8859,6/7/2024 12:00:00 AM,Large Layoff - 10 or more workers,142,OHSU,Portland,
-8850,5/29/2024 12:00:00 AM,Large Layoff - 10 or more workers,37,LexisNexis Risk Solutions,"Alpharetta, GA",
