@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9068,12/20/2024 12:00:00 AM,Large Layoff - 10 or more workers,430,"Vimo, Inc. dba GetInsured","Mountain View, CA",
 9057,12/10/2024 12:00:00 AM,Permanent closure,87,Albertsons,Portland,
 9056,12/10/2024 12:00:00 AM,Reduction,91,"Natural Fiber Welding, Inc.","Peoria, IL",
 9050,11/22/2024 12:00:00 AM,Large Layoff - 10 or more workers,60,Cabinet Door Service,Salem,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8911,8/6/2024 12:00:00 AM,Large Layoff - 10 or more workers,158,Willamette Falls Paper Company,West Linn,
 8892,7/23/2024 12:00:00 AM,Permanent closure,151,Wells Fargo Bank N.A.,"Charlotte, NC",
 8880,7/2/2024 12:00:00 AM,Large Layoff - 10 or more workers,69,Hazelnut Growers of Oregon,Aurora,
-8876,7/1/2024 12:00:00 AM,Large Layoff - 10 or more workers,297,OHSU,Portland,
