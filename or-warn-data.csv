@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9199,4/9/2025 12:00:00 AM,Large Layoff - 10 or more workers,105,US Cellular Corporation,"Chicago, IL",
 9198,4/9/2025 12:00:00 AM,Permanent closure,72,Smurfit Westrock Company,"Atlanta, GA",
 9179,3/27/2025 12:00:00 AM,Large Layoff - 10 or more workers,47,"Adobe, Inc.","San Jose, CA",
 9178,3/28/2025 12:00:00 AM,Temporary Layoff,244,UPS,"Atlanta, GA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 8987,10/21/2024 12:00:00 AM,Permanent closure,111,DENNIS Uniform,Portland,
 8985,10/17/2024 12:00:00 AM,Permanent closure,49,Overhead Door Corporation,"Lewisville, TX",
 8978,10/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,1300,Intel Corporation,"Santa Clara, CA",
-8977,10/15/2024 12:00:00 AM,Permanent closure,76,Cornerstone Building Brands,Tualatin,
