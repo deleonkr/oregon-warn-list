@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9204,3/26/2025 12:00:00 AM,Permanent closure,82,Safeway Albertsons - Portland Division,Clackamas,
 9199,4/9/2025 12:00:00 AM,Large Layoff - 10 or more workers,105,US Cellular Corporation,"Chicago, IL",
 9198,4/9/2025 12:00:00 AM,Permanent closure,72,Smurfit Westrock Company,"Atlanta, GA",
 9179,3/27/2025 12:00:00 AM,Large Layoff - 10 or more workers,47,"Adobe, Inc.","San Jose, CA",
@@ -6,7 +7,7 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9131,2/18/2025 12:00:00 AM,Large Layoff - 10 or more workers,96,"Sherwood Food Distibutors, LLC, Harvest Meat Company, Inc, Western Boxed Meat Inc.","Detroit, MI",
 9082,1/9/2025 12:00:00 AM,Large Layoff - 10 or more workers,56,Macy's Inc.,"Springdale, OH",
 9068,12/20/2024 12:00:00 AM,Large Layoff - 10 or more workers,430,"Vimo, Inc. dba GetInsured","Mountain View, CA",
-9057,12/10/2024 12:00:00 AM,Permanent closure,87,Albertsons,Portland,
+9057,12/10/2024 12:00:00 AM,Permanent closure,87,Safeway Albertsons - Portland Division,Portland,
 9056,12/10/2024 12:00:00 AM,Reduction,91,"Natural Fiber Welding, Inc.","Peoria, IL",
 9050,11/22/2024 12:00:00 AM,Large Layoff - 10 or more workers,60,Cabinet Door Service,Salem,
 9049,12/4/2024 12:00:00 AM,Large Layoff - 10 or more workers,500,Wells Fargo Bank N.A.,"Charlotte, NC",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9016,10/30/2024 12:00:00 AM,Permanent closure,64,"Misfits Markets, Inc.",Clackamas,
 8987,10/21/2024 12:00:00 AM,Permanent closure,111,DENNIS Uniform,Portland,
 8985,10/17/2024 12:00:00 AM,Permanent closure,49,Overhead Door Corporation,"Lewisville, TX",
-8978,10/15/2024 12:00:00 AM,Large Layoff - 10 or more workers,1300,Intel Corporation,"Santa Clara, CA",
