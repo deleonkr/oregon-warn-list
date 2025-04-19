@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9206,4/16/2025 12:00:00 AM,Large Layoff - 10 or more workers,11,"Navajo Manufacturing Co., Inc.","Denver, CO",
 9204,3/26/2025 12:00:00 AM,Permanent closure,82,Safeway Albertsons - Portland Division,Clackamas,
 9199,4/9/2025 12:00:00 AM,Large Layoff - 10 or more workers,105,US Cellular Corporation,"Chicago, IL",
 9198,4/9/2025 12:00:00 AM,Permanent closure,72,Smurfit Westrock Company,"Atlanta, GA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9017,10/15/2024 12:00:00 AM,Permanent closure,98,"True Value Company, L.L.C.",Springfield,
 9016,10/30/2024 12:00:00 AM,Permanent closure,64,"Misfits Markets, Inc.",Clackamas,
 8987,10/21/2024 12:00:00 AM,Permanent closure,111,DENNIS Uniform,Portland,
-8985,10/17/2024 12:00:00 AM,Permanent closure,49,Overhead Door Corporation,"Lewisville, TX",
