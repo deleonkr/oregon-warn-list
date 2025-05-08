@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9230,5/7/2025 12:00:00 AM,Large Layoff - 10 or more workers,87,Safeway Albertsons - Portland Division,Portland,
 9218,5/1/2025 12:00:00 AM,Permanent closure,128,Jeld-Wen,"Charlotte, NC",
 9210,4/22/2025 12:00:00 AM,Large Layoff - 10 or more workers,16,SambaNova Systems,"Palo Alto, CA",
 9207,4/21/2025 12:00:00 AM,Temporary Layoff,11,Lignetics,"Broomfield, CO",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9048,12/4/2024 12:00:00 AM,Permanent closure,221,Wells Fargo Bank N.A.,"Charlotte, NC",
 9034,11/15/2024 12:00:00 AM,Reduction,50,The Boeing Company,"Chicago, IL",
 9029,11/14/2024 12:00:00 AM,Permanent closure,185,"Advance Stores Company, Inc., General Parts Distribution LLC","Raleigh, NC",
-9025,11/5/2024 12:00:00 AM,Large Layoff - 10 or more workers,205,"Principal Service Solutions, Inc.","Modesto, CA",
