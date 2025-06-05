@@ -1,4 +1,6 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9259,6/4/2025 12:00:00 AM,Large Layoff - 10 or more workers,168,"Management and Training Corporation, Tongue Point Job Corps Center","Centerville, UT",
+9257,6/3/2025 12:00:00 AM,Permanent closure,195,"ESS Tech, Inc.",Wilsonville,
 9249,5/29/2025 12:00:00 AM,Permanent closure,245,Powin LLC,Tualitin,
 9230,5/7/2025 12:00:00 AM,Large Layoff - 10 or more workers,87,Safeway Albertsons - Portland Division,Portland,
 9218,5/1/2025 12:00:00 AM,Permanent closure,128,Jeld-Wen,"Charlotte, NC",
@@ -17,5 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9056,12/10/2024 12:00:00 AM,Reduction,91,"Natural Fiber Welding, Inc.","Peoria, IL",
 9050,11/22/2024 12:00:00 AM,Large Layoff - 10 or more workers,60,Cabinet Door Service,Salem,
 9049,12/4/2024 12:00:00 AM,Large Layoff - 10 or more workers,500,Wells Fargo Bank N.A.,"Charlotte, NC",
-9048,12/4/2024 12:00:00 AM,Permanent closure,221,Wells Fargo Bank N.A.,"Charlotte, NC",
-9034,11/15/2024 12:00:00 AM,Reduction,50,The Boeing Company,"Chicago, IL",
