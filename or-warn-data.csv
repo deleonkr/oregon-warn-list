@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9299,7/17/2025 12:00:00 AM,Large Layoff - 10 or more workers,249,"FRED MEYER, INC.",Portland,
 9296,7/11/2025 12:00:00 AM,Large Layoff - 10 or more workers,42,Oregon Mutual,McMinnville,
 9294,7/8/2025 12:00:00 AM,Permanent closure,56,"Outside Van, LLC",Portland,
 9293,7/7/2025 12:00:00 AM,Large Layoff - 10 or more workers,2392,Intel Corporation,"Santa Clara, CA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9204,3/26/2025 12:00:00 AM,Permanent closure,82,Safeway Albertsons - Portland Division,Clackamas,
 9199,4/9/2025 12:00:00 AM,Large Layoff - 10 or more workers,105,US Cellular Corporation,"Chicago, IL",
 9198,4/9/2025 12:00:00 AM,Permanent closure,72,Smurfit Westrock Company,"Atlanta, GA",
-9179,3/27/2025 12:00:00 AM,Large Layoff - 10 or more workers,47,"Adobe, Inc.","San Jose, CA",
