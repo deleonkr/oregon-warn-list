@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9328,8/20/2025 12:00:00 AM,Permanent closure,25,BESS Remain Co.,Tualatin,
 9324,8/18/2025 12:00:00 AM,Large Layoff - 10 or more workers,,"Zeco Systems, Inc. dba Shell EV Charging Solutions Americas","Los Angeles, CA",
 9322,8/12/2025 12:00:00 AM,Large Layoff - 10 or more workers,23,"Block, Inc.","Oakland, CA",
 9306,7/29/2025 12:00:00 AM,Large Layoff - 10 or more workers,90,Owens-Brockway Glass Container Inc,"Perrysburg, OH",
@@ -13,9 +14,8 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9267,6/9/2025 12:00:00 AM,Permanent closure,77,Career Systems Development Corporation,"West Henrietta, NY",
 9259,6/4/2025 12:00:00 AM,Large Layoff - 10 or more workers,168,"Management and Training Corporation, Tongue Point Job Corps Center","Centerville, UT",
 9257,6/3/2025 12:00:00 AM,Permanent closure,195,"ESS Tech, Inc.",Wilsonville,
-9249,5/29/2025 12:00:00 AM,Permanent closure,245,Powin LLC,Tualitin,
+9249,5/29/2025 12:00:00 AM,Permanent closure,245,Powin LLC,Tualatin,
 9230,5/7/2025 12:00:00 AM,Large Layoff - 10 or more workers,87,Safeway Albertsons - Portland Division,Portland,
 9218,5/1/2025 12:00:00 AM,Permanent closure,128,Jeld-Wen,"Charlotte, NC",
 9210,4/22/2025 12:00:00 AM,Large Layoff - 10 or more workers,16,SambaNova Systems,"Palo Alto, CA",
 9207,4/21/2025 12:00:00 AM,Temporary Layoff,11,Lignetics,"Broomfield, CO",
-9206,4/16/2025 12:00:00 AM,Large Layoff - 10 or more workers,11,"Navajo Manufacturing Co., Inc.","Denver, CO",
