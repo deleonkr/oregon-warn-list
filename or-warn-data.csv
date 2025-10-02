@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9354,9/30/2025 12:00:00 AM,Large Layoff - 10 or more workers,50,Wells Fargo and Company,"San Antonio, TX",
 9350,9/25/2025 12:00:00 AM,Permanent closure,107,Roseburg Forest Products,Springfield,
 9346,9/16/2025 12:00:00 AM,Large Layoff - 10 or more workers,128,Edwards Vacuum LLC,"Sanborn, NY",
 9345,9/16/2025 12:00:00 AM,Large Layoff - 10 or more workers,1,AGC Biologics,"Bothell, WA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9267,6/9/2025 12:00:00 AM,Permanent closure,77,Career Systems Development Corporation,"West Henrietta, NY",
 9259,6/4/2025 12:00:00 AM,Large Layoff - 10 or more workers,168,"Management and Training Corporation, Tongue Point Job Corps Center","Centerville, UT",
 9257,6/3/2025 12:00:00 AM,Permanent closure,195,"ESS Tech, Inc.",Wilsonville,
-9249,5/29/2025 12:00:00 AM,Permanent closure,245,Powin LLC,Tualatin,
