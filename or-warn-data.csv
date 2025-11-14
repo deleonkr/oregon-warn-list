@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9389,11/13/2025 12:00:00 AM,Large Layoff - 10 or more workers,669,Intel Corporation,"Santa Clara, CA",
 9377,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,265,Pacific Source,Springfield,
 9376,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,34,Wells Fargo and Company,"San Antonio, TX",
 9375,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,147,Wells Fargo and Company,"San Antonio, TX",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9299,7/17/2025 12:00:00 AM,Large Layoff - 10 or more workers,249,"FRED MEYER, INC.",Portland,
 9296,7/11/2025 12:00:00 AM,Large Layoff - 10 or more workers,42,Oregon Mutual,McMinnville,
 9294,7/8/2025 12:00:00 AM,Permanent closure,56,"Outside Van, LLC",Portland,
-9293,7/7/2025 12:00:00 AM,Large Layoff - 10 or more workers,2509,Intel Corporation,"Santa Clara, CA",
