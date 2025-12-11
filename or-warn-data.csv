@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9408,12/9/2025 12:00:00 AM,Reduction,3,Wells Fargo and Company,"San Antonio, TX",
 9402,12/1/2025 12:00:00 AM,Large Layoff - 10 or more workers,37,Nordstrom,"Seattle, WA",
 9401,12/1/2025 12:00:00 AM,Large Layoff - 10 or more workers,310,Vibra Specialty Hospital of Portland,Portland,
 9392,11/19/2025 12:00:00 AM,Large Layoff - 10 or more workers,1,Nordstrom,"Seattle, WA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9328,8/20/2025 12:00:00 AM,Permanent closure,25,BESS Remain Co.,Tualatin,
 9324,8/18/2025 12:00:00 AM,Large Layoff - 10 or more workers,,"Zeco Systems, Inc. dba Shell EV Charging Solutions Americas","Los Angeles, CA",
 9322,8/12/2025 12:00:00 AM,Large Layoff - 10 or more workers,23,"Block, Inc.","Oakland, CA",
-9306,7/29/2025 12:00:00 AM,Large Layoff - 10 or more workers,90,Owens-Brockway Glass Container Inc,"Perrysburg, OH",
