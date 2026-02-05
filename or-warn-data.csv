@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9434,2/2/2026 12:00:00 AM,Large Layoff - 10 or more workers,71,"Single Source Security, LLC dba Protos Security","Norwalk, CT",
 9429,1/29/2026 12:00:00 AM,Permanent closure,177,"Three Pirates, LLC dba Point Blank Distributing",Portland,
 9420,1/8/2026 12:00:00 AM,Permanent closure,1,JeniusBank,"New York, NY",
 9415,12/31/2025 12:00:00 AM,Large Layoff - 10 or more workers,78,Vacuum Technique LLC,Clackamas,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9354,9/30/2025 12:00:00 AM,Large Layoff - 10 or more workers,50,Wells Fargo and Company,"San Antonio, TX",
 9350,9/25/2025 12:00:00 AM,Permanent closure,107,Roseburg Forest Products,Springfield,
 9346,9/16/2025 12:00:00 AM,Large Layoff - 10 or more workers,128,Edwards Vacuum LLC,"Sanborn, NY",
-9345,9/16/2025 12:00:00 AM,Large Layoff - 10 or more workers,1,AGC Biologics,"Bothell, WA",
