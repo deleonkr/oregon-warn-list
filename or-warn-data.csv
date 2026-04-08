@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9470,4/6/2026 12:00:00 AM,Large Layoff - 10 or more workers,106,Direct Marketing Solutions,Portland,
 9465,3/26/2026 12:00:00 AM,Large Layoff - 10 or more workers,78,Horizon Air,"Seattle, WA",
 9446,2/17/2026 12:00:00 AM,Large Layoff - 10 or more workers,3,Lowe's,"Mooresville, NC",
 9436,2/4/2026 12:00:00 AM,Large Layoff - 10 or more workers,146,Roseburg Forest Products,Springfield,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9374,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,265,Wells Fargo and Company,"San Antonio, TX",
 9363,10/7/2025 12:00:00 AM,Large Layoff - 10 or more workers,1,"Simply IOA, LLC","Longwood, FL",
 9362,9/25/2025 12:00:00 AM,Large Layoff - 10 or more workers,56,Pacific Source,Springfield,
-9357,10/13/2025 12:00:00 AM,Large Layoff - 10 or more workers,157,"Bags, A Metropolis Company","Orlando, FL",
