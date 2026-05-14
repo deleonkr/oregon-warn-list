@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9507,5/13/2026 12:00:00 AM,Large Layoff - 10 or more workers,83,"Augusta Sportswear, Inc.","Grovetown, GA",
 9495,4/29/2026 12:00:00 AM,Large Layoff - 10 or more workers,66,"Milestone Technologies, Inc.","Fremont, CA",
 9474,4/6/2026 12:00:00 AM,Large Layoff - 10 or more workers,65,"Nelson Global Products, Inc.","Stoughton, WI",
 9473,4/2/2026 12:00:00 AM,Large Layoff - 10 or more workers,175,Sunstone Way,Portland,
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9389,11/13/2025 12:00:00 AM,Large Layoff - 10 or more workers,669,Intel Corporation,"Santa Clara, CA",
 9377,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,265,Pacific Source,Springfield,
 9376,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,34,Wells Fargo and Company,"San Antonio, TX",
-9375,10/28/2025 12:00:00 AM,Large Layoff - 10 or more workers,147,Wells Fargo and Company,"San Antonio, TX",
