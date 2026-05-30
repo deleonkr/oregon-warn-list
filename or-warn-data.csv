@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9517,5/29/2026 12:00:00 AM,Large Layoff - 10 or more workers,97,PacificSource,Springfield,
 9511,5/26/2026 12:00:00 AM,Large Layoff - 10 or more workers,69,Safeway Albertsons - Portland Division,Clackamas,
 9509,5/19/2026 12:00:00 AM,Large Layoff - 10 or more workers,146,Republic National Distributing Company,"Grand Prairie, TX",
 9507,5/13/2026 12:00:00 AM,Large Layoff - 10 or more workers,83,"Augusta Sportswear, Inc.","Grovetown, GA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9402,12/1/2025 12:00:00 AM,Large Layoff - 10 or more workers,37,Nordstrom,"Seattle, WA",
 9401,12/1/2025 12:00:00 AM,Large Layoff - 10 or more workers,310,Vibra Specialty Hospital of Portland,Portland,
 9392,11/19/2025 12:00:00 AM,Large Layoff - 10 or more workers,1,Nordstrom,"Seattle, WA",
-9389,11/13/2025 12:00:00 AM,Large Layoff - 10 or more workers,669,Intel Corporation,"Santa Clara, CA",
