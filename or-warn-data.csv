@@ -1,4 +1,5 @@
 track_number,notification_date,layoff_type,count,employer,city,notice_link
+9612,9/23/2026 12:00:00 AM,Large Layoff - 10 or more workers,80,"Kenco Logistics Services, LLC","Chattanooga, TN",
 9591,9/1/2026 12:00:00 AM,Large Layoff - 10 or more workers,87,Schneider Electric,"Boston, MA",
 9590,8/31/2026 12:00:00 AM,Large Layoff - 10 or more workers,55,"Watterson Environmental Group, LLC Subsidiary J.R. Johnson, LLC","Schaumburg, IL",
 9588,8/25/2026 12:00:00 AM,Large Layoff - 10 or more workers,74,Amentum,"Chantilly, VA",
@@ -18,4 +19,3 @@ track_number,notification_date,layoff_type,count,employer,city,notice_link
 9473,4/2/2026 12:00:00 AM,Large Layoff - 10 or more workers,175,Sunstone Way,Portland,
 9470,4/6/2026 12:00:00 AM,Large Layoff - 10 or more workers,106,Direct Marketing Solutions,Portland,
 9465,3/26/2026 12:00:00 AM,Large Layoff - 10 or more workers,78,Horizon Air,"Seattle, WA",
-9446,2/17/2026 12:00:00 AM,Large Layoff - 10 or more workers,3,Lowe's,"Mooresville, NC",
